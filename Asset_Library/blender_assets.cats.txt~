@@ -1,0 +1,12 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+a9e816fd-1970-4fed-b57a-cbc82cd362cc:GS_Scatter_Plants:GS_Scatter_Plants
+1f2009ad-9c5f-440e-ba6a-69a38bb1636a:Generators:Generators
+e250e4ab-21a6-407a-ace2-b18496c63138:Stone Shader:Stone Shader
+455efc9e-ad90-4f60-ba66-cc377b4f23a4:Wood Shader:Wood Shader
